@@ -1,0 +1,9 @@
+! Created by 'Not real Engineering'
+! Author: Shank S. Kulkarni
+!
+ output flat text displacements
+ output flat text stresses
+ output flat text strains 
+ output flat text reactions 
+ output flat text element states 
+
